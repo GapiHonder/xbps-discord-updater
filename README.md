@@ -18,13 +18,13 @@ The script performs the following actions:
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your_username/discord-package-management.git
+    git clone https://github.com/your_username/discord-package-updater.git
     ```
 
 2. Navigate to the cloned directory:
 
     ```bash
-    cd discord-package-management
+    cd discord-package-updater
     ```
 
 3. Make sure you have the required dependencies installed:
@@ -44,13 +44,13 @@ The script performs the following actions:
 4. Make the script executable:
 
     ```bash
-    chmod +x discord_management.sh
+    chmod +x discord_final.sh
     ```
 
 5. Run the script:
 
     ```bash
-    ./discord_management.sh
+    ./discord_final.sh
     ```
 
 6. Follow the on-screen prompts to update the Discord package version, execute necessary commands, and install or compile the package from source.
